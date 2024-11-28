@@ -1,0 +1,19 @@
+.login-container {
+    margin-top: 30px;
+  }
+  
+  .login-title {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .login-input {
+    margin-bottom: 15px;
+  }
+  
+  .login-button {
+    margin-top: 20px;
+    background-color: #1976d2;
+    color: white;
+  }
+  

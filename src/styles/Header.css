@@ -1,0 +1,15 @@
+.app-bar {
+    background-color:#1976d2;
+  }
+  
+  .header-link {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+  }
+  
+  .header-title {
+    flex-grow: 1;
+  }
+
+  

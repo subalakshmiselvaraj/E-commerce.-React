@@ -1,0 +1,90 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "title": "Men's T-Shirt",
+        "price": 19.99,
+        "image": "/images/shirt1.jpg",
+        "description": "A comfortable men's t-shirt made of 100% cotton."
+      },
+      {
+        "id": "2",
+        "title": "Women's T-Shirt",
+        "price": 18.99,
+        "image": "/images/shirt2.jpg",
+        "description": "Stylish women's t-shirt with a relaxed fit."
+      },
+      {
+        "id": "3",
+        "title": "Graphic Tee",
+        "price": 24.99,
+        "image": "/images/shirt3.jpg",
+        "description": "A trendy graphic tee for casual outings."
+      },
+      {
+        "id": "4",
+        "title": "Cool Graphic Tee",
+        "price": 22.99,
+        "image": "/images/shirt4.jpg",
+        "description": "A stylish tee with a cool graphic design."
+      },
+      {
+        "id": "5",
+        "title": "Samsung TV",
+        "price": 499.99,
+        "image": "/images/tv1.jpg",
+        "description": "Samsung 55 inch 4K Ultra HD Smart TV."
+      },
+      {
+        "id": "6",
+        "title": "LG OLED TV",
+        "price": 799.99,
+        "image": "/images/tv2.jpg",
+        "description": "LG 65 inch OLED 4K Smart TV with stunning visuals."
+      },
+      {
+        "id": "7",
+        "title": "Sony Bravia",
+        "price": 699.99,
+        "image": "/images/tv3.jpg",
+        "description": "Sony Bravia 60 inch 4K Smart TV with exceptional color."
+      },
+      {
+        "id": "8",
+        "title": "Panasonic TV",
+        "price": 599.99,
+        "image": "/images/tv4.jpg",
+        "description": "Panasonic 50 inch 4K Smart TV with great sound quality."
+      },
+      {
+        "id": "9",
+        "title": "Nintendo Switch",
+        "price": 299.99,
+        "image": "/images/console1.jpg",
+        "description": "A versatile gaming console for on-the-go and home gaming."
+      },
+      {
+        "id": "10",
+        "title": "PlayStation 5",
+        "price": 499.99,
+        "image": "/images/console2.jpg",
+        "description": "The latest gaming console with stunning graphics and fast loading times."
+      },
+      {
+        "id": "11",
+        "title": "Xbox Series X",
+        "price": 499.99,
+        "image": "/images/console3.jpg",
+        "description": "The fastest, most powerful Xbox ever."
+      },
+      {
+        "id": "12",
+        "title": "Oculus Quest 2",
+        "price": 299.99,
+        "image": "/images/console4.jpg",
+        "description": "A standalone virtual reality headset."
+      }
+    ]
+  
+    ,"cart":[]
+  }
